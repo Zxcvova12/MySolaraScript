@@ -7,7 +7,7 @@ local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
 
 -- ==== Настройки ====
-local OwnerUsername = "ВАШ_НИК_ЗДЕСЬ"
+local OwnerUsername = "KPELOMIO"
 local SavedPlayers = {} -- для .psave
 local EmergencySave = false -- для .esave
 local DamageThreshold = 0.2 -- 20% урона для срабатывания защиты
