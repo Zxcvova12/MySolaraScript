@@ -1,4 +1,4 @@
- ФУНКЦИОНАЛ
+ начало
 
 
 local Players = game:GetService("Players")
